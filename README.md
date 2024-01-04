@@ -25,7 +25,7 @@ The aim of this project is to implement the Lian-Barsky algorithm for line clipp
 
 ## Tutorial
 
-Version 2 : To be published soon
+Version 2 : <a href="https://youtu.be/e6GBnVkfdpc">Click Here</a>
 
 Version 1 : <a href="https://youtu.be/Q4itrMOptDU?si=ECkAeKAwv9yRkj0v">Click Here</a>
 
